@@ -1,4 +1,4 @@
-![Hey there 👋, I'm Armando. I'm a BSc Data Science student, a Machine Learning & Artificial Intelligence enthusiast. Check out my work (https://github.com/ArmandoSaboia/ArmandoSaboia//master/bio.gif)
+![Hey there 👋, I'm Armando. I'm a BSc Data Science student, a Machine Learning & Artificial Intelligence enthusiast. Check out my work (https://github.com/ArmandoSaboia/ArmandoSaboia//master/README.md)
 
 <!--
 **ArmandoSaboia/ArmandoSaboia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

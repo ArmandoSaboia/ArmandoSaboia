@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 🖐️ I'm Armando.</h1>
-<h3 align="center">I'm a BSc Data Science student and a Machine Learning & Artificial Intelligence enthusiast. Check out my work.</h3>
+<h3 align="center">I'm a BSc Data Science student and a Machine Learning & Artificial Intelligence enthusiast. 
+Check out my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandosaboia&label=Profile%20views&color=0e75b6&style=flat" alt="armandosaboia" /> </p>
 

@@ -1,4 +1,4 @@
-![](https://www.edgica.com/artificial-intelligence-is-on-the-verge-of-changing-business/)
+![](https://media.giphy.com/media/II7K47XUXbWQK0aHrF/giphy.gif)
 
 <h1 align="center">Hey there 🖐️ I'm Armando.</h1>
 <h3 align="center">I'm a BSc Data Science student and a Machine Learning & Artificial Intelligence enthusiast.</h3> 

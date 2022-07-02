@@ -1,4 +1,4 @@
-<img src="https://bit.ly/3nyncqf" width="1020" height="450">
+<img src="https://bit.ly/3nyncqf" width="1020" height="350">
 
 <h1 align="center">Hey there 🖐️ I'm Armando.</h1>
 <h3 align="center">I'm a BSc Data Science student and a Machine Learning & Artificial Intelligence enthusiast.</h3> 

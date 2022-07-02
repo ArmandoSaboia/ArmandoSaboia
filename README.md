@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/II7K47XUXbWQK0aHrF/giphy.gif)
+<img src="https://miro.medium.com/max/3000/1*n3TBO5i8hrYAujlhiHoE_w.gif" width="1020" height="450">
 
 <h1 align="center">Hey there 🖐️ I'm Armando.</h1>
 <h3 align="center">I'm a BSc Data Science student and a Machine Learning & Artificial Intelligence enthusiast.</h3> 

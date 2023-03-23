@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science (BSc)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArmandoSaboia/myrepo](https://github.com/ArmandoSaboia?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ArmandoSaboia?tab=repositories](https://github.com/ArmandoSaboia?tab=repositories)
 
 - 📫 How to reach me **4rm4nd1nh0_br@protonmail.com**
 

@@ -1,7 +1,7 @@
 <img src="https://bit.ly/3nyncqf" width="1020" height="350">
 
 <h1 align="center">Hey there 🖐️ I'm Armando.</h1>
-<h3 align="center">Data Scientist with a BSc in Data Science and a Machine Learning & Artificial Intelligence enthusiast.</h3> 
+<h3 align="center">👋 Hi, I'm Armando, a passionate Data Scientist with a BSc in Data Science and a Machine Learning & Artificial Intelligence enthusiast.</h3> 
 <h3 align="center">Check out my work !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandosaboia&label=Profile%20views&color=0e75b6&style=flat" alt="armandosaboia" /> </p>
